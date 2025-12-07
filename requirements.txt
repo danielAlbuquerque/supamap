@@ -1,0 +1,18 @@
+# Supabase Data Manipulation Tool - Requirements
+# Python 3.7+
+
+# HTTP Library para fazer requisições
+requests==2.31.0
+
+# Dependências do requests
+certifi==2023.7.22
+charset-normalizer==3.3.2
+idna==3.4
+urllib3==2.0.7
+
+# Opcional: Para saída colorida no terminal (comentado por padrão)
+# colorama==0.4.6
+# termcolor==2.3.0
+
+# Opcional: Para progress bars (comentado por padrão)
+# tqdm==4.66.1
