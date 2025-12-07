@@ -14,7 +14,7 @@
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](https://github.com/yourusername/supamap)
+[![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](https://github.com/danielAlbuquerque/supamap)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/supamap.git
+git clone https://github.com/danielAlbuquerque/supamap.git
 cd supamap
 
 # Install dependencies
@@ -286,7 +286,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/supamap.git
+git clone https://github.com/danielAlbuquerque/supamap.git
 cd supamap
 
 # Install dev dependencies
@@ -308,9 +308,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **dnlalb.exe**
 
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
+- 🐦 Twitter: [@albuquerquedev](https://twitter.com/albuquerquedev)
 
 ---
 
